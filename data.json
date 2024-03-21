@@ -1,0 +1,54 @@
+{
+    "users": {
+        "1494732557": {
+            "name": [
+                "\u042f\u0440\u043e\u0441\u043b\u0430\u0432",
+                "\u0421\u043f\u0438\u0440\u0438\u0434\u043e\u043d\u043e\u0432"
+            ],
+            "xp": 0,
+            "chance": "default",
+            "money": 0
+        },
+        "1019284832": {
+            "name": [
+                "Danya",
+                "Tumanov"
+            ],
+            "xp": 0,
+            "chance": "default",
+            "money": 0
+        },
+        "1826204264": {
+            "name": [
+                "\u041a\u0430\u043c\u0438\u043b\u043b\u0430",
+                null
+            ],
+            "xp": 0,
+            "chance": "default",
+            "money": 0
+        },
+        "5115336044": {
+            "name": [
+                "Lasgwx",
+                null
+            ],
+            "xp": 0,
+            "chance": "default",
+            "money": 0
+        }
+    },
+    "raffles": [
+        {
+            "name": "\u041a\u043e\u043d\u043a\u0443\u0440\u0441 \u043d\u0430 5 \u043f\u043e\u0434\u043f\u0438\u0441\u043e\u043a Telegram Premium",
+            "date_of": "23.03.2024"
+        },
+        {
+            "name": "\u041a\u043e\u043d\u043a\u0443\u0440\u0441 \u0437\u0430 \u0442\u0435\u0445\u043d\u0438\u043a\u0443 Apple",
+            "date_of": "25.03.2024"
+        },
+        {
+            "name": "\u0420\u043e\u0437\u044b\u0433\u0440\u044b\u0448 Tesla Model S",
+            "date_of": "21.03.2024"
+        }
+    ]
+}
